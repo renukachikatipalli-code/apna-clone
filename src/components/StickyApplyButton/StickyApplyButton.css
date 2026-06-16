@@ -1,0 +1,19 @@
+.stickyApply{
+position:fixed;
+bottom:0;
+left:0;
+width:100%;
+background:white;
+padding:15px;
+box-shadow:0 -2px 10px rgba(0,0,0,0.1);
+}
+
+.stickyApply button{
+width:100%;
+padding:15px;
+background:#0d6efd;
+color:white;
+border:none;
+border-radius:8px;
+font-size:18px;
+}
