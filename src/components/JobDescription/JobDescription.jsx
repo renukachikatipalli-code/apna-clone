@@ -6,3 +6,5 @@ function JobDescription({ job }) {
     </div>
   );
 }
+
+export default JobDescription;

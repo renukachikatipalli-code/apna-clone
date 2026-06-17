@@ -1,4 +1,4 @@
-import jobs from "../../data/jobs.json";
+import jobs from "../../Data/jobs.json";
 import RelatedJobCard from "./RelatedJobCard";
 
 function RelatedJobs() {

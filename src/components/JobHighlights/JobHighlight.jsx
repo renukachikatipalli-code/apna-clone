@@ -9,3 +9,5 @@ function JobHighlights({ job }) {
     </div>
   );
 }
+
+export default JobHighlights;

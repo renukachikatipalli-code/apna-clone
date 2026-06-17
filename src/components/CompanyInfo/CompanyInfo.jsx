@@ -6,3 +6,5 @@ function CompanyInfo({ job }) {
     </div>
   );
 }
+
+export default CompanyInfo;
